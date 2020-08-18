@@ -1,0 +1,13 @@
+E:\bizruntime\W1Web\W1Web\obj\Debug\netcoreapp3.1\W1Web.csprojAssemblyReference.cache
+E:\bizruntime\W1Web\W1Web\obj\Debug\netcoreapp3.1\W1Web.AssemblyInfoInputs.cache
+E:\bizruntime\W1Web\W1Web\obj\Debug\netcoreapp3.1\W1Web.AssemblyInfo.cs
+E:\bizruntime\W1Web\W1Web\obj\Debug\netcoreapp3.1\W1Web.csproj.CoreCompileInputs.cache
+E:\bizruntime\W1Web\W1Web\bin\Debug\netcoreapp3.1\W1Web.exe
+E:\bizruntime\W1Web\W1Web\bin\Debug\netcoreapp3.1\W1Web.deps.json
+E:\bizruntime\W1Web\W1Web\bin\Debug\netcoreapp3.1\W1Web.runtimeconfig.json
+E:\bizruntime\W1Web\W1Web\bin\Debug\netcoreapp3.1\W1Web.runtimeconfig.dev.json
+E:\bizruntime\W1Web\W1Web\bin\Debug\netcoreapp3.1\W1Web.dll
+E:\bizruntime\W1Web\W1Web\bin\Debug\netcoreapp3.1\W1Web.pdb
+E:\bizruntime\W1Web\W1Web\obj\Debug\netcoreapp3.1\W1Web.dll
+E:\bizruntime\W1Web\W1Web\obj\Debug\netcoreapp3.1\W1Web.pdb
+E:\bizruntime\W1Web\W1Web\obj\Debug\netcoreapp3.1\W1Web.genruntimeconfig.cache

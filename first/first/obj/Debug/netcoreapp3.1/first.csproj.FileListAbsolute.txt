@@ -1,0 +1,13 @@
+E:\bizruntime\first\first\bin\Debug\netcoreapp3.1\first.exe
+E:\bizruntime\first\first\bin\Debug\netcoreapp3.1\first.deps.json
+E:\bizruntime\first\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.json
+E:\bizruntime\first\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.dev.json
+E:\bizruntime\first\first\bin\Debug\netcoreapp3.1\first.dll
+E:\bizruntime\first\first\bin\Debug\netcoreapp3.1\first.pdb
+E:\bizruntime\first\first\obj\Debug\netcoreapp3.1\first.csprojAssemblyReference.cache
+E:\bizruntime\first\first\obj\Debug\netcoreapp3.1\first.AssemblyInfoInputs.cache
+E:\bizruntime\first\first\obj\Debug\netcoreapp3.1\first.AssemblyInfo.cs
+E:\bizruntime\first\first\obj\Debug\netcoreapp3.1\first.csproj.CoreCompileInputs.cache
+E:\bizruntime\first\first\obj\Debug\netcoreapp3.1\first.dll
+E:\bizruntime\first\first\obj\Debug\netcoreapp3.1\first.pdb
+E:\bizruntime\first\first\obj\Debug\netcoreapp3.1\first.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sonu\source\repos\Week2Sat\bin\Debug\netcoreapp3.1\Week2Sat.exe
+C:\Users\sonu\source\repos\Week2Sat\bin\Debug\netcoreapp3.1\Week2Sat.deps.json
+C:\Users\sonu\source\repos\Week2Sat\bin\Debug\netcoreapp3.1\Week2Sat.runtimeconfig.json
+C:\Users\sonu\source\repos\Week2Sat\bin\Debug\netcoreapp3.1\Week2Sat.runtimeconfig.dev.json
+C:\Users\sonu\source\repos\Week2Sat\bin\Debug\netcoreapp3.1\Week2Sat.dll
+C:\Users\sonu\source\repos\Week2Sat\bin\Debug\netcoreapp3.1\Week2Sat.pdb
+C:\Users\sonu\source\repos\Week2Sat\obj\Debug\netcoreapp3.1\Week2Sat.csprojAssemblyReference.cache
+C:\Users\sonu\source\repos\Week2Sat\obj\Debug\netcoreapp3.1\Week2Sat.AssemblyInfoInputs.cache
+C:\Users\sonu\source\repos\Week2Sat\obj\Debug\netcoreapp3.1\Week2Sat.AssemblyInfo.cs
+C:\Users\sonu\source\repos\Week2Sat\obj\Debug\netcoreapp3.1\Week2Sat.csproj.CoreCompileInputs.cache
+C:\Users\sonu\source\repos\Week2Sat\obj\Debug\netcoreapp3.1\Week2Sat.dll
+C:\Users\sonu\source\repos\Week2Sat\obj\Debug\netcoreapp3.1\Week2Sat.pdb
+C:\Users\sonu\source\repos\Week2Sat\obj\Debug\netcoreapp3.1\Week2Sat.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sonu\source\repos\Week2Fri\bin\Debug\netcoreapp3.1\Week2Fri.exe
+C:\Users\sonu\source\repos\Week2Fri\obj\Debug\netcoreapp3.1\Week2Fri.csprojAssemblyReference.cache
+C:\Users\sonu\source\repos\Week2Fri\obj\Debug\netcoreapp3.1\Week2Fri.AssemblyInfoInputs.cache
+C:\Users\sonu\source\repos\Week2Fri\obj\Debug\netcoreapp3.1\Week2Fri.AssemblyInfo.cs
+C:\Users\sonu\source\repos\Week2Fri\bin\Debug\netcoreapp3.1\Week2Fri.deps.json
+C:\Users\sonu\source\repos\Week2Fri\bin\Debug\netcoreapp3.1\Week2Fri.runtimeconfig.json
+C:\Users\sonu\source\repos\Week2Fri\bin\Debug\netcoreapp3.1\Week2Fri.runtimeconfig.dev.json
+C:\Users\sonu\source\repos\Week2Fri\bin\Debug\netcoreapp3.1\Week2Fri.dll
+C:\Users\sonu\source\repos\Week2Fri\bin\Debug\netcoreapp3.1\Week2Fri.pdb
+C:\Users\sonu\source\repos\Week2Fri\obj\Debug\netcoreapp3.1\Week2Fri.csproj.CoreCompileInputs.cache
+C:\Users\sonu\source\repos\Week2Fri\obj\Debug\netcoreapp3.1\Week2Fri.dll
+C:\Users\sonu\source\repos\Week2Fri\obj\Debug\netcoreapp3.1\Week2Fri.pdb
+C:\Users\sonu\source\repos\Week2Fri\obj\Debug\netcoreapp3.1\Week2Fri.genruntimeconfig.cache

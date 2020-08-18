@@ -1,0 +1,13 @@
+C:\Users\sonu\source\repos\File_I-O\bin\Debug\netcoreapp3.1\File_I-O.exe
+C:\Users\sonu\source\repos\File_I-O\bin\Debug\netcoreapp3.1\File_I-O.deps.json
+C:\Users\sonu\source\repos\File_I-O\bin\Debug\netcoreapp3.1\File_I-O.runtimeconfig.json
+C:\Users\sonu\source\repos\File_I-O\bin\Debug\netcoreapp3.1\File_I-O.runtimeconfig.dev.json
+C:\Users\sonu\source\repos\File_I-O\bin\Debug\netcoreapp3.1\File_I-O.dll
+C:\Users\sonu\source\repos\File_I-O\bin\Debug\netcoreapp3.1\File_I-O.pdb
+C:\Users\sonu\source\repos\File_I-O\obj\Debug\netcoreapp3.1\File_I-O.csprojAssemblyReference.cache
+C:\Users\sonu\source\repos\File_I-O\obj\Debug\netcoreapp3.1\File_I-O.AssemblyInfoInputs.cache
+C:\Users\sonu\source\repos\File_I-O\obj\Debug\netcoreapp3.1\File_I-O.AssemblyInfo.cs
+C:\Users\sonu\source\repos\File_I-O\obj\Debug\netcoreapp3.1\File_I-O.csproj.CoreCompileInputs.cache
+C:\Users\sonu\source\repos\File_I-O\obj\Debug\netcoreapp3.1\File_I-O.dll
+C:\Users\sonu\source\repos\File_I-O\obj\Debug\netcoreapp3.1\File_I-O.pdb
+C:\Users\sonu\source\repos\File_I-O\obj\Debug\netcoreapp3.1\File_I-O.genruntimeconfig.cache

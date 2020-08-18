@@ -1,0 +1,13 @@
+C:\Users\sonu\source\repos\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.exe
+C:\Users\sonu\source\repos\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.deps.json
+C:\Users\sonu\source\repos\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.runtimeconfig.json
+C:\Users\sonu\source\repos\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.runtimeconfig.dev.json
+C:\Users\sonu\source\repos\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.dll
+C:\Users\sonu\source\repos\LINQ1\bin\Debug\netcoreapp3.1\LINQ1.pdb
+C:\Users\sonu\source\repos\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.csprojAssemblyReference.cache
+C:\Users\sonu\source\repos\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.AssemblyInfoInputs.cache
+C:\Users\sonu\source\repos\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.AssemblyInfo.cs
+C:\Users\sonu\source\repos\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.csproj.CoreCompileInputs.cache
+C:\Users\sonu\source\repos\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.dll
+C:\Users\sonu\source\repos\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.pdb
+C:\Users\sonu\source\repos\LINQ1\obj\Debug\netcoreapp3.1\LINQ1.genruntimeconfig.cache

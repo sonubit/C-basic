@@ -1,0 +1,13 @@
+C:\Users\sonu\source\repos\FirstLinq\bin\Debug\netcoreapp3.1\FirstLinq.exe
+C:\Users\sonu\source\repos\FirstLinq\bin\Debug\netcoreapp3.1\FirstLinq.deps.json
+C:\Users\sonu\source\repos\FirstLinq\bin\Debug\netcoreapp3.1\FirstLinq.runtimeconfig.json
+C:\Users\sonu\source\repos\FirstLinq\bin\Debug\netcoreapp3.1\FirstLinq.runtimeconfig.dev.json
+C:\Users\sonu\source\repos\FirstLinq\bin\Debug\netcoreapp3.1\FirstLinq.dll
+C:\Users\sonu\source\repos\FirstLinq\bin\Debug\netcoreapp3.1\FirstLinq.pdb
+C:\Users\sonu\source\repos\FirstLinq\obj\Debug\netcoreapp3.1\FirstLinq.csprojAssemblyReference.cache
+C:\Users\sonu\source\repos\FirstLinq\obj\Debug\netcoreapp3.1\FirstLinq.AssemblyInfoInputs.cache
+C:\Users\sonu\source\repos\FirstLinq\obj\Debug\netcoreapp3.1\FirstLinq.AssemblyInfo.cs
+C:\Users\sonu\source\repos\FirstLinq\obj\Debug\netcoreapp3.1\FirstLinq.csproj.CoreCompileInputs.cache
+C:\Users\sonu\source\repos\FirstLinq\obj\Debug\netcoreapp3.1\FirstLinq.dll
+C:\Users\sonu\source\repos\FirstLinq\obj\Debug\netcoreapp3.1\FirstLinq.pdb
+C:\Users\sonu\source\repos\FirstLinq\obj\Debug\netcoreapp3.1\FirstLinq.genruntimeconfig.cache
