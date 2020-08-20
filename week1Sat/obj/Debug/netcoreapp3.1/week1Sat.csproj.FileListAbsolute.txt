@@ -1,0 +1,13 @@
+C:\Users\sonu\source\repos\week1Sat\bin\Debug\netcoreapp3.1\week1Sat.exe
+C:\Users\sonu\source\repos\week1Sat\bin\Debug\netcoreapp3.1\week1Sat.deps.json
+C:\Users\sonu\source\repos\week1Sat\bin\Debug\netcoreapp3.1\week1Sat.runtimeconfig.json
+C:\Users\sonu\source\repos\week1Sat\bin\Debug\netcoreapp3.1\week1Sat.runtimeconfig.dev.json
+C:\Users\sonu\source\repos\week1Sat\bin\Debug\netcoreapp3.1\week1Sat.dll
+C:\Users\sonu\source\repos\week1Sat\bin\Debug\netcoreapp3.1\week1Sat.pdb
+C:\Users\sonu\source\repos\week1Sat\obj\Debug\netcoreapp3.1\week1Sat.csprojAssemblyReference.cache
+C:\Users\sonu\source\repos\week1Sat\obj\Debug\netcoreapp3.1\week1Sat.AssemblyInfoInputs.cache
+C:\Users\sonu\source\repos\week1Sat\obj\Debug\netcoreapp3.1\week1Sat.AssemblyInfo.cs
+C:\Users\sonu\source\repos\week1Sat\obj\Debug\netcoreapp3.1\week1Sat.csproj.CoreCompileInputs.cache
+C:\Users\sonu\source\repos\week1Sat\obj\Debug\netcoreapp3.1\week1Sat.dll
+C:\Users\sonu\source\repos\week1Sat\obj\Debug\netcoreapp3.1\week1Sat.pdb
+C:\Users\sonu\source\repos\week1Sat\obj\Debug\netcoreapp3.1\week1Sat.genruntimeconfig.cache
